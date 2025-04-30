@@ -1,0 +1,10 @@
+{
+  "modid": "Mutsumi_Mod",
+  "name": "MutsumiMod",
+  "author_list": ["三刀索隆烦恼凤"],
+  "description": "modDemo。",
+  "version": "0.0.1",
+  "sts_version": "09-05-2024",
+  "mts_version": "3.23.2",
+  "dependencies": ["basemod"]
+}

@@ -1,0 +1,32 @@
+{
+  "ExampleMod:hurt": {
+    "NAME": "伤痛增幅",
+    "DESCRIPTIONS": [
+      "每次受到攻击时，额外受到 #r",
+      " 点伤害。"
+    ]
+  },
+  "ExampleMod:RotationPlanPower": {
+    "NAME": "精神错乱",
+    "DESCRIPTIONS": [
+      "切换姿态时，获得 #r",
+      " 点能量。"
+    ]
+  },
+  "ExampleMod:unity": {
+  "NAME": "融合形态",
+  "DESCRIPTIONS":[ "人格相融，获得全部人格加成"]
+  },
+  "ExampleMod:echoofself": {
+    "NAME": "回响",
+    "DESCRIPTIONS":[ "每回合前 #r",
+    "次消耗卡牌时，获得耗能的能量"]
+  },
+  "examplemod:PersonalityCollapsePower": {
+    "NAME": "人格崩坏",
+    "DESCRIPTIONS": [
+      "每消耗了1张卡牌，睦/Morits：获得 #r",
+      "点力量(Morits)或敏捷(睦)。"
+    ]
+  }
+}

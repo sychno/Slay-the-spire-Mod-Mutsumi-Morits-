@@ -1,0 +1,134 @@
+{
+  "ExampleMod:Strike": {
+    "NAME": "打击",
+    "DESCRIPTION": "造成 !D! 点伤害。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。"
+  },
+  "ExampleMod:Defend": {
+    "NAME": "防御",
+    "DESCRIPTION": "获得 !B! 点格挡。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡。"
+  },
+  "ExampleMod:Personal_Change": {
+    "NAME": "人格切换",
+    "DESCRIPTION": "切换为墨提斯或睦头人",
+    "UPGRADE_DESCRIPTION": " 切换为墨提斯或睦头人 NL 保留"
+  },
+  "ExampleMod:UnityForm": {
+    "NAME": "融合形态",
+    "DESCRIPTION": "若叶睦与 Morits融为一体，同时触发多形态效果",
+    "UPGRADE_DESCRIPTION": " 固有 NL 若叶睦与 Morits融为一体，同时触发多形态效果。"
+  },
+  "ExampleMod:Powerup": {
+    "NAME": "激励",
+    "DESCRIPTION": "获得 !M! 点力量与敏捷 NL 若叶睦敏捷+1，Morits力量+1。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 点力量与敏捷 NL 若叶睦敏捷+1，Morits力量+1。"
+  },
+  "ExampleMod:wagabapeace": {
+    "NAME": "若叶睦的和平",
+    "DESCRIPTION": " 获得 !B! 点格挡。 NL 若你为若叶睦，抽 !M!张牌。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡。 NL 若你为若叶睦，抽 !M!张牌。"
+  },
+  "ExampleMod:PersonalDestory": {
+    "NAME": "人格尽灭",
+    "DESCRIPTION": "消耗所有手牌，每消耗一张对所有敌人 造成 !D! 点伤害。",
+    "UPGRADE_DESCRIPTION": "消耗所有手牌，每消耗一张对所有敌人 造成 !D! 点伤害。"
+  },
+  "ExampleMod:Morits_Attack": {
+    "NAME": "小莫打击",
+    "DESCRIPTION": "随机对敌人攻击 !M! 次，每次造成 !D! 点伤害。 NL Morits姿态下，每次攻击附带1层易伤",
+    "UPGRADE_DESCRIPTION": "随机对敌人攻击 !M! 次，每次造成 !D! 点伤害。 NL Morits姿态下，每次攻击附带1层易伤"
+  },
+  "ExampleMod:Mutsumi_Defend": {
+    "NAME": "心灵封闭",
+    "DESCRIPTION": "获得 !B! 点格挡，往抽牌堆添加 !M! 张眩晕。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡，往抽牌堆添加 !M! 张眩晕。"
+  },
+  "ExampleMod:ATField": {
+    "NAME": "AT立场",
+    "DESCRIPTION": "获得 !M! 层金属化。",
+    "UPGRADE_DESCRIPTION": "获得 !M! 层金属化。"
+  },
+  "ExampleMod:SpiritPulse": {
+    "NAME": "SpiritPulse",
+    "DESCRIPTION": "造成 !D! 点伤害。 NL 如果目标已虚弱，重复一次。",
+    "UPGRADE_DESCRIPTION": "造成 !D! 点伤害。 NL 如果目标已虚弱，重复一次。"
+  },
+  "ExampleMod:healing": {
+    "NAME": "黄瓜的用法",
+    "DESCRIPTION": "睦：恢复 !M! 点生命 NL 消耗",
+    "UPGRADE_DESCRIPTION": "睦：恢复 !M! 点生命 NL 消耗"
+  },
+  "ExampleMod:LeafShield": {
+    "NAME": "LeafShield",
+    "DESCRIPTION": "获得 !B! 点格挡。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡。"
+  },
+  "ExampleMod:ThornsBurst": {
+    "NAME": "ThornsBurst",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害。",
+    "UPGRADE_DESCRIPTION": "对所有敌人造成 !D! 点伤害。"
+  },
+  "ExampleMod:Special_Attack": {
+    "NAME": "镜像攻击",
+    "DESCRIPTION": "对所有敌人造成 !D! 点伤害，并施加 !M! 层虚弱或易伤。",
+    "UPGRADE_DESCRIPTION": "对所有敌人造成 !D! 点伤害，并施加 !M! 层虚弱或易伤。"
+  },
+  "ExampleMod:Exchange": {
+    "NAME": "精神错乱",
+    "DESCRIPTION": "每次切换姿态时，获得 1 点能量。",
+    "UPGRADE_DESCRIPTION": "每次切换姿态时，获得 1 点能量。 NL 固有"
+  },
+  "ExampleMod:Personal_Attack": {
+    "NAME": "人格湮灭",
+    "DESCRIPTION": "造成 !D! 点伤害，每消耗一张牌多造成2点伤害",
+    "UPGRADE_DESCRIPTION": " 造成 !D! 点伤害，每消耗一张牌多造成3点伤害"
+  },
+  "ExampleMod:Echo": {
+    "NAME": "人格回响",
+    "DESCRIPTION": "每回合前 !M! 次消耗卡牌时，获得耗能的能量",
+    "UPGRADE_DESCRIPTION": " 每回合前 !M! 次消耗卡牌时，获得耗能的能量"
+  },
+  "ExampleMod:Personalpiece": {
+    "NAME": "人格碎片",
+    "DESCRIPTION": "保留 NL 当该牌被消耗时：NL Morits：获得 !M!点力量 NL 睦：获得 !M! 点敏捷",
+    "UPGRADE_DESCRIPTION": "保留 NL 当该牌被消耗时：NL Morits：获得 !M!点力量 NL 睦：获得 !M! 点敏捷"
+  },
+  "ExampleMod:Personal_Produce": {
+    "NAME": "人格衍生",
+    "DESCRIPTION": "获得 !B!点格挡，NL 在手牌里生成 !M! 张人格碎片",
+    "UPGRADE_DESCRIPTION": "获得 !B!点格挡， NL 在手牌里生成 !M! 张人格碎片"
+  },
+  "ExampleMod:Awaken_Mutsumi": {
+    "NAME": "切换·若叶睦",
+    "DESCRIPTION": "获得 !B! 点格挡。切换为 [若叶睦] 姿态。对所有敌人施加 !M! 层虚弱。",
+    "UPGRADE_DESCRIPTION": "获得 !B! 点格挡。切换为 [若叶睦] 姿态。对所有敌人施加 !M! 层虚弱。"
+  },
+  "ExampleMod:Impulse_Night": {
+    "NAME": "切换·Morits",
+    "DESCRIPTION": "切换为 [Morits] 姿态，对一名敌人造成 !D! 点伤害。抽1张牌。",
+    "UPGRADE_DESCRIPTION": "切换为 [Morits] 姿态，对一名敌人造成 !D! 点伤害。抽1张牌。"
+  },
+  "ExampleMod:Personal_Burning": {
+    "NAME": "人格焚焰",
+    "DESCRIPTION": "消耗 X 张牌，每消耗一张获得1点能量 NL 睦：额外消耗一张",
+    "UPGRADE_DESCRIPTION": "消耗 X+1 张牌，每消耗一张获得1点能量 NL 睦：额外消耗一张"
+  },
+  "ExampleMod:Personal_Kill": {
+    "NAME": "人格抹杀",
+    "DESCRIPTION": "消耗 1 张牌 NL 睦：抽 !M! 张牌 NL Morits: 对所有敌人施加 !M! 层虚弱",
+    "UPGRADE_DESCRIPTION": "消耗 1 张牌 NL 睦：抽 !M! 张牌 NL Morits: 对所有敌人施加 !M! 层虚弱"
+  },
+  "ExampleMod:Live_Power": {
+    "NAME": "我不想死",
+    "DESCRIPTION": "Morits：消耗一张牌时，往手牌添加相应的副本(非融合形态)",
+    "UPGRADE_DESCRIPTION": "Morits：消耗一张牌时，往手牌添加相应的副本(非融合形态)"
+  },
+  "ExampleMod:PersonalityCollapse": {
+    "NAME": "人格崩坏",
+    "DESCRIPTION": "每消耗了1张卡牌，获得1点力量(Morits)或1点敏捷(睦)。",
+    "UPGRADE_DESCRIPTION": "每消耗了1张卡牌，获得1点力量(Morits)或1点敏捷(睦)。"
+  }
+
+
+}

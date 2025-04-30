@@ -1,0 +1,9 @@
+{
+  "ExampleMod:MyCharacter": {
+    "NAMES": ["Yuyuko", "The Example"],
+    "TEXT": [
+      "亡灵之主，掌握着蝶与樱的力量.",
+      "You are ready for battle!"
+    ]
+  }
+}
